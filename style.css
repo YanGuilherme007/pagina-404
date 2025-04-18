@@ -37,13 +37,14 @@ body {
 
 .numero-404 {
     position: absolute;
-    top: 17%;
+    top: 15%;
     left: 50%;
     transform: translateX(-50%);
     color: white;
-    font-size: 10vw;
+    font-size: 8vw; /* menor do que 10vw para evitar sobrepor o texto */
     z-index: 3;
 }
+
 
 
 .paragrafo-2,
