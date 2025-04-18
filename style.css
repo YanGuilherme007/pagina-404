@@ -35,15 +35,16 @@ body {
     z-index: 2;
 }
 
-.N-404 {
+.numero-404 {
     position: absolute;
-    top: 9%;
+    top: 17%;
     left: 50%;
     transform: translateX(-50%);
     color: white;
     font-size: 10vw;
     z-index: 3;
 }
+
 
 .paragrafo-2,
 .paragrafo-3,
